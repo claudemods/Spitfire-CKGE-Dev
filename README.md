@@ -17,7 +17,7 @@
 
 [![Version](https://img.shields.io/github/v/release/claudemods/SpitFireCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)]()
 
-##  [Click Here For Photos](https://github.com/claudemods/SpitFireCKGE-Dev/tree/main/Photos)
+##  [Click Here For Photos](https://github.com/claudemods/Spitfire-CKGE-Dev/tree/main/Photos)
 
 
 ## SpitFire CachyOS Kde Gamer's Edition Dev! 🎮
