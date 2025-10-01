@@ -28,7 +28,7 @@
 
 
 
-## Start Your Journey Today! 🦅 
+## Start Your Testing Journey Today! 🦅 
   **Every Great Linux Journey On A Computer Begins With A Linux System Let This Be Yours 🚀🎮💻**
 
 ### 🔧 CORE COMPONENTS  
