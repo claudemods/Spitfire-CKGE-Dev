@@ -7,7 +7,7 @@
 
 
 ### Unstable channel (CachyOS, Aur + Kde Linux Repos) 
- **Full CKGE With Kde Dev Desktop From Kdelinux Repos**
+ **CKGE With Kde Dev Desktop From Kdelinux Repos**
   
 
 ## More To Announce! 🏗️
