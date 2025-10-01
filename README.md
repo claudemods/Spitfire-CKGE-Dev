@@ -63,7 +63,7 @@ https://cdn.kde.org/kde-linux/packaging/packages/
   **11) always tested before its uploaded and you can find known issues in changelogs**
 
 
-##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
+##  [Additional Information](https://github.com/claudemods/Spitfire-CKGE-Dev/blob/main/AdditionalInformation.md)
 
 
 <div align="center">
