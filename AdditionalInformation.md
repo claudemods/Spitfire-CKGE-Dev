@@ -18,7 +18,7 @@
   
   **It was the first thing I ever made on Linux 🥇**
  
-  **Let my custom made taskbar continue its voyage 🛩️🚢🦅🌊🏝️**
+  **Let my custom made taskbar and extras continue their voyage 🛩️🚢🦅🌊🏝️**
 
 
   
