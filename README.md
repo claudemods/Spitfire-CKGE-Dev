@@ -15,7 +15,7 @@
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/OS-Arch-0000FF?style=for-the-badge&logo=linux" /></a>
 <a href="https://cachyos.org/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-CachyOS-00FFFF?style=for-the-badge&logo=CachyOS" /></a>
 
-[![Version](https://img.shields.io/github/v/release/claudemods/SpitFireCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)]()
+[![Version](https://img.shields.io/github/v/release/claudemods/SpitFireCKGE?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/Spitfire-CKGE-Dev/releases/tag/v1.02.1-04-10-2025)
 
 ##  [Click Here For Photos](https://github.com/claudemods/Spitfire-CKGE-Dev/tree/main/Photos)
 
